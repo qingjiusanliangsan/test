@@ -4,3 +4,8 @@ C:\Users\lenovo\Anaconda3\Library\usr\bin
 C:\Users\lenovo\Anaconda3\Library\bin
 C:\Users\lenovo\Anaconda3\Scripts
 C:\Program Files\Git
+git clone
+git status
+git add filename
+git commit -m ""
+git push
